@@ -2,7 +2,7 @@
 
 A complete two-branch enterprise network simulation featuring VLAN segmentation, inter-VLAN routing, centralized services, and layered security controls using Cisco Packet Tracer.
 
-**Context:** Advanced Networking course project (2024)
+**Context:** Advanced Networking course project (2025)
 
 ---
 
@@ -12,7 +12,10 @@ A complete two-branch enterprise network simulation featuring VLAN segmentation,
 - Two-branch enterprise topology connected via a WAN serial link  
 - Router-on-a-stick configuration using IEEE 802.1Q trunking  
 - 10 VLANs across both branches (HR, IT, Sales, Management, Server)  
-- Static routing between branches for predictable WAN communication  
+- Static routing between branches for predictable WAN communication
+- Topology
+  <img width="1920" height="1080" alt="Pasted image" src="https://github.com/user-attachments/assets/77eab5e3-a981-4620-8b47-b5ac17916336" />
+ 
 
 ### Services Configuration
 - Centralized DHCP server using `ip helper-address` for cross-VLAN leasing  
